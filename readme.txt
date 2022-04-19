@@ -1,0 +1,3 @@
+-neu ko choi duoc ban phai tai jdk 1.6 ve cai dat
+-doc huong dan trong phan help de biet luat choi va cach choi
+-mo loa 
